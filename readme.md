@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sagnik Sanyal</h1>
-<h3 align="center">A passionate frontend developer from India, working on App Development using Flutter on Android, iOS. Learning Web Technologies like React, Nest JS</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik-sanyal&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik-sanyal" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sagnik+Sanyal+!;" />
+</h1>
+
+<h3 align="center">A passionate frontend developer from India, working on App Development using Flutter on Android, iOS. Learning Web Technologies like React, Nest JS</h3>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnik-sanyal" alt="sagnik-sanyal" /></a> </p>
 
@@ -18,6 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sagnik-sanyal-11b812220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagnik-sanyal-11b812220/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19295870/sagnik-sanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19295870/sagnik-sanyal" height="30" width="40" /></a>
 </p>
+<hr/>
 
 <h3 align="center">⚒️ Languages - Frameworks & Tools ⚒️</h3>
 <br/>
@@ -26,6 +31,14 @@
     <img src="https://skillicons.dev/icons?i=flutter,react,firebase,aws,gcp,nextjs,angular,graphql,appwrite,nginx,postman,vscode,androidstudio,figma,wordpress" />
 </div>
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake wanders around my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 <hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnik-sanyal&show_icons=true&locale=en&layout=compact" alt="sagnik-sanyal" /></p>
