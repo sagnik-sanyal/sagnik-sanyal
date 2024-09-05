@@ -7,7 +7,7 @@
 <h3 align="center">A passionate frontend developer from India, working on App Development using Flutter on Android, iOS. Learning Web Technologies like React, Nest JS</h3>
 <br/>
 
-- 🌱 I’m currently learning Web Dev **React, Tailwind CSS**
+- 🌱 I’m currently learning backend dev **NodeJS, MongoDB**
 
 - 💬 Ask me about **Android, iOS, Flutter, Java, Kotlin**
 
