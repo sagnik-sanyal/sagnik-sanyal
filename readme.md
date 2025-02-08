@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Android, iOS, Flutter, Java, Kotlin**
 
-- 📫 How to reach me **sagniksanyal1502@gmail.com**
-
 - ⚡ Cool fact **Why do android devs fear getting out into forest ? Because they’re afraid of getting lost in the logcat 😆😂**
 
 <h3 align="left">Connect with me:</h3>
