@@ -28,7 +28,7 @@
 <h3 align="center">⚒️ Languages - Frameworks & Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,java,dart,kotlin,swift,php,html,css,mysql,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,c,java,dart,kotlin,swift,sql,git,github" /><br>
     <img src="https://skillicons.dev/icons?i=flutter,react,firebase,aws,gcp,nextjs,angular,graphql,appwrite,nginx,postman,vscode,androidstudio,figma,wordpress" />
 </div>
 <br/>
