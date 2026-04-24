@@ -13,7 +13,7 @@
 
 - ⚡ Cool fact **Why do android devs fear getting out into forest ? Because they’re afraid of getting lost in the logcat 😆😂**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/sagnik-sanyal-11b812220" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -21,7 +21,7 @@
   <a href="https://stackoverflow.com/users/19295870/sagnik-sanyal" target="_blank">
      <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-</div>
+</div> -->
 
 <hr/>
 
